@@ -1,4 +1,3 @@
-# AHJ-1.1
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ---
@@ -60,6 +59,4 @@
 
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект.**
 
-### AHJ-1.1
-
-[![Build status](https://ci.appveyor.com/api/projects/status/0wuj7bw9h0slqcjg/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-1-1-9thmd/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/lf54lh2vvvv5tbfq?svg=true)](https://ci.appveyor.com/project/Dmitrio1337lk/home-env)
